@@ -1,0 +1,18 @@
+/*Hagstrom Assignment 1.1: The Foundation CSS*/
+body
+{
+    background-image: linear-gradient(aquamarine, teal);
+    background-repeat: no-repeat;
+}
+/*h4 CSS for text size not working*/
+h4
+{
+    text-align: center;
+    text-size-adjust: 40px;
+}
+
+p
+{
+    text-align: center;
+    text-size-adjust: 24px;
+}
