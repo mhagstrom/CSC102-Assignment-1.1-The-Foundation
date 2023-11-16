@@ -1,0 +1,42 @@
+/*Hagstrom Assignment 1.1: The Foundation CSS*/
+body
+{
+    background-image: linear-gradient(aquamarine, teal);
+    background-repeat: no-repeat;
+    height: 100%;
+    min-height:100vh
+}
+/*h4 CSS for text size not working*/
+h4
+{
+    text-align: center;
+    color: brown;
+}
+
+p
+{
+    text-align: center;
+    font-size: 40px;
+    color: brown;
+}
+
+button
+{
+    font-size: 20px;
+    color: brown;
+}
+
+nav
+{
+    text-align: center;
+    text-size-adjust: 24px;
+}
+
+img
+{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 25%;
+}
