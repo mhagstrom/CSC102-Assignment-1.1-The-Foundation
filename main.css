@@ -1,37 +1,9 @@
-/*Hagstrom Assignment 1.1: The Foundation CSS*/
+/* main.css */
 
 /* Header properties */
 header {
     text-align: center;
   }
-
-
-body
-{
-    background-image: linear-gradient(aquamarine, teal);
-    background-repeat: no-repeat;
-    height: 100%;
-    min-height:100vh
-}
-
-h4
-{
-    text-align: center;
-    color: brown;
-}
-
-p
-{
-    text-align: center;
-    font-size: 40px;
-    color: brown;
-}
-
-button
-{
-    font-size: 20px;
-    color: brown;
-}
 
 /* Nav properties */
 nav {
@@ -42,9 +14,14 @@ nav {
     line-height: 30px;
   }
 
-/*width % can adjust the size of an image without cropping it*/
-img
- {
+/* Body properties */
+body {
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+/* #memeImage properties */
+img {
     margin-right: 200px;
   }
 
